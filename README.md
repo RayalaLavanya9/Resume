@@ -1,13 +1,16 @@
 # Resume
 ## Rayala Lavanya
 #### Personal Details:
+
 - Name: Rayala Lavanya<br>
 - Mailid: lavanyarayala08@gmail.com<br>
 - Phone: +91xxxxxxxxxx<br>
 - Adress: Telladevarapalli<br>
 
 ### Educatoinal Details:
+
 ** B.Tech**
+
 -College Name: D.V.R & Dr.Hima Shekar MIC College of Techonology<br>
 -Branch: CSE<br>
 -Year of Study: 2018-2022<br>
@@ -15,6 +18,7 @@
 -Address: Vijayawada<br>
 
 **Intermediate**
+
 -College Name: Sri Chaitanya Jr. College<br>
 -Branch: MPC<br>
 -Year of Study: 2016-2018<br>
@@ -22,23 +26,28 @@
 -Address: Vijayawada<br>
 
 **SSC**
+
 -School Name: Sri Siddhartha Public School<br>
 -Year of Study: 2016<br>
 -Percentage: 92%<br>
 Adress: Vissannapeta<br>
 
-###**Skills**
+**Skills**
+
 -C Programming<br>
 -Python<br>
 
-###**Goals**
+**Goals**
+
 -Iwant to become a software developer in'Python'<br>
 
-###**Hobbies**
+**Hobbies**
+
 -Watching Movies<br>
 -Listening Music<br>
 
-###**Strengths & Weakness**
+**Strengths & Weakness**
+
 -Strengths:
 
 -Hardwork<br>
@@ -47,10 +56,10 @@ Adress: Vissannapeta<br>
 
 -Overthinking<br>
 
-###**Achievements**
+**Achievements**
 
 -I took a good role in VISHKAKALA program<br>
 
-###**Projects**
+**Projects**
 
 -IOT Based Smart Irrigation System<br>
